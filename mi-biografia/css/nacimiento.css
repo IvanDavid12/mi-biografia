@@ -1,18 +1,37 @@
+@import url('https://fonts.cdnfonts.com/css/cyber-tittle');
 *
 {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+main
+{
+    font-family: 'Cyber Tittle', sans-serif;
+                                                
+}
+p
+{
+    color: #fff;
+}
+
+.block-element
+{
+    font-family: 'Cyber Tittle', sans-serif;   
+    background-color: brown;
+    margin: 12px;
+    padding: 50px;
+    
+}
 body
 {
-    background-color: #fdfd96;
+    background-color: black;
     margin: 0;
     padding: 0; 
 }
 nav
 {
-    background-color:#d8f8e1 ;
+    background-color:#ffffff ;
     display: inline-block;
     
 }
