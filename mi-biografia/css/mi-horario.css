@@ -10,26 +10,32 @@ main
     font-family: 'Cyber Tittle', sans-serif;
                                                 
 }
-.block-element
-{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: grey;
-    margin: 10px;
-    padding: 50px;
-  
-}
 h1
 {
-    color: white;
+    background-color: #a25107;
+    margin: 12px;
+    padding: 5px;
 }
-p
+.tiempo
 {
     color: white;
+    background-color: #420516;
+}
+.hora
+{
+    background-color: brown;
+}
+.dias
+{
+    background-color: #950101;
 }
 
 body
 {
     background-color: black;
-    margin: 0;
-    padding: 0; 
+}
+tbody
+{
+    background-color: black;
+    color: white;
 }

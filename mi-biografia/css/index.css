@@ -11,16 +11,47 @@ h1
 {
     font-family: 'THUNDERBLACK DEMO', sans-serif;
     color: black;
+   
     
 
 }
 a
 {
-color: white;
+    color: white;
+    text-decoration: none;
 }
 .block-1
 {
     background-color: brown;
+    
+}
+.block-2
+{
+    background-color: #082032;
+}
+.block-3
+{
+    background-color: #1e5128;
+}
+.block-4
+{
+    background-color: #4c0027;
+}
+.block-5
+{
+    background-color: grey;
+}
+.block-6
+{
+    background-color: #a25107;
+}
+.block-7
+{
+    background-color: #a29607;
+}
+.block-8
+{
+    background-color: #5b0045;
 }
 .block-element
 {
@@ -39,6 +70,7 @@ h1
     background-color: white;
     margin: 10px;
     padding: 50px;  
+   
 }
 
 main
@@ -56,4 +88,5 @@ body
 footer
 {
     color: white;
+
 }
